@@ -168,3 +168,8 @@ $fa-font-path: "~font-awesome/fonts";
   }
 }
 
+
+.btn-outline-primary { 
+  color: var(--primary);
+  border: 1px solid var(--primary);
+}
